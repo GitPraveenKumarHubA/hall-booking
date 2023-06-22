@@ -1,4 +1,4 @@
-# hall-booking
+# hall-booking-api-documentation
 
 Hall Booking API is used for creating a room, booking an existing room, retrieving all room details and also the customer details with booking data as well
 
